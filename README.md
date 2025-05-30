@@ -30,5 +30,4 @@ pip install -r requirements.txt
 
 ## Sample Output
 ![preview](preview.png)
-
 ---
