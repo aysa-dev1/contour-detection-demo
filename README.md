@@ -2,7 +2,7 @@
 
 This demo shows how to detect and draw bounding boxes around anatomical structures in medical-style images using OpenCV.\
 Existing image is from:\
-"Case courtesy of Adeniyi Olorunfemi Fagbohun, <a href="https://radiopaedia.org/?lang=us">Radiopaedia.org</a>. From the case <a href="https://radiopaedia.org/cases/210008?lang=us">rID: 210008</a>"
+"Case courtesy of Stefan Tigges, <a href="https://radiopaedia.org/?lang=us">Radiopaedia.org</a>. From the case <a href="https://radiopaedia.org/cases/212411?lang=us">rID: 212411</a>"
 
 ## Features
 - Grayscale conversion
