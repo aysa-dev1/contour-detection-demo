@@ -26,3 +26,7 @@ pip install -r requirements.txt
 
 - open contour-detection-demo folder in vs code or jupyter
 - run the code
+
+## Result example
+
+![preview](preview.png)
